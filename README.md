@@ -22,7 +22,7 @@ A comprehensive Python application for detecting credit card fraud using machine
 - numpy
 - plotly
 ## unzip
- before run this project unzip  proj.zip file
+ before run this project unzip  "proj.zip" file
 
 ## 🛠️ Installation
 
